@@ -1,0 +1,6 @@
+{
+  "name": "NVIDIA Compute Markets",
+  "description": "Institutional-grade financial terminal for AI GPU compute pricing, forward curves, capacity, and derivatives exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
